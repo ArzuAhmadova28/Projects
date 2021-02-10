@@ -1,4 +1,4 @@
-# Project contains beginner Python 3 programming codes
+# Project 1-Strings
 s = "jhajkkkkkhdjhsakdskka"
 longest = s[0]
 current = s[0]
